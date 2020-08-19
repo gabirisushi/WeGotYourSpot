@@ -1,0 +1,35 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.centered {
+  padding-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer {
+    background: gray;
+    text-align:center;
+    color:#ffffff;
+    bottom: 0;
+    position: fixed;
+    width: 100%
+}
+
+.App {
+    padding_left: 30px;
+    padding_right: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+}
+
+.tagCloud {
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+}

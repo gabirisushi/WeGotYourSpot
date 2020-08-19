@@ -1,0 +1,31 @@
+{
+  "name": "wegotyourspot-ui",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "moment": "^2.18.1",
+    "pigeon-maps": "^0.14.0",
+    "pigeon-marker": "^0.3.4",
+    "react": "^16.5.2",
+    "react-bootstrap": "^1.0.0-beta.16",
+    "react-bootstrap-time-picker": "^2.0.1",
+    "react-dom": "^16.5.2",
+    "react-scripts": "2.0.4",
+    "superagent": "^3.5.2",
+    "superagent-promise": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
